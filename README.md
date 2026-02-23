@@ -4,25 +4,29 @@
 > 
 > Every implementation solves the **same problem** using different frameworks and abstraction levels — from pure manual backpropagation to high-level `model.fit()`.
 
----
+- Colab A: https://colab.research.google.com/drive/1UX6DCdDNB1FzSa-Q0dUVe7e6a4by6Y6y?usp=sharing
+- Video A: https://www.loom.com/share/762936546c754ec483198aa9ac3ed6dd
 
-## 📋 Table of Contents
+- Colab B: https://colab.research.google.com/drive/1tpNbD7d1lInJSodivLIGoTSxYPI3W3OX?usp=sharing
+- Video B: https://www.loom.com/share/664dc44dce3d45238acb8f8651437781
 
-- [Problem Statement](#-problem-statement)
-- [Repository Structure](#-repository-structure)
-- [Colab Notebooks & Videos](#-colab-notebooks--videos)
-  - [Colab A — NumPy From Scratch](#colab-a--numpy-from-scratch-manual-backprop)
-  - [Colab B — PyTorch From Scratch](#colab-b--pytorch-from-scratch-no-nnmodule)
-  - [Colab C — PyTorch nn.Module](#colab-c--pytorch-nnmodule-class-based)
-  - [Colab D — PyTorch Lightning](#colab-d--pytorch-lightning)
-  - [Colab E(i) — TF Low-Level](#colab-ei--tensorflow-low-level-no-keras)
-  - [Colab E(ii) — TF Built-in Layers](#colab-eii--tensorflow-built-in-layers-model-subclassing)
-  - [Colab E(iii) — TF Functional API](#colab-eiii--tensorflow-functional-api)
-  - [Colab E(iv) — TF High-Level Sequential](#colab-eiv--tensorflow-high-level-sequential--modelfit)
-- [Framework Comparison](#-framework-comparison)
-- [How to Run](#-how-to-run)
-- [Video Walkthroughs](#-video-walkthroughs)
+- Colab C: https://colab.research.google.com/drive/11EgTuxYXtMeelUyP-5hs0dXXm1Xpm5W1?usp=sharing
+- Video C: https://www.loom.com/share/3a2e4917d66f4ea68cdb3773a234fbbb
 
+- Colab D: https://colab.research.google.com/drive/1XljznxEpP3KS9_w7a7iKAby7KflqruqV?usp=sharing
+- Video D: https://www.loom.com/share/d18ee5f3a5e6480cb543534631df708f
+
+- Colab E-1: https://colab.research.google.com/drive/1nqmmkhcwEPkavuZYB8QxEuz7D21UHnY4?usp=sharing
+- Video E-1: https://www.loom.com/share/0ee18247579f4682ab36f63cf01ce0e3
+
+- Colab E-2: https://colab.research.google.com/drive/17Zb1eS5llzUC--xmbh1m3-8HD3D0_0wS?usp=sharing
+- Video E-2: https://www.loom.com/share/0d4d7238b28c4843b7f8f1e2f4cf6d64
+
+- Colab E-3: https://colab.research.google.com/drive/1Fme6RdIRg0ad02nSj5mUF1d75Fym5y7n?usp=sharing
+- Video E-3: https://www.loom.com/share/e3ec44c544e84ebb91a5ae2bc62bedca
+
+- Colab E-4: https://colab.research.google.com/drive/1qljkEX61f1FIiddr_fexlZrBjFvkUxPW?usp=sharing
+- Video E-4: https://www.loom.com/share/8d66d1d93d5d4e4da1fc22972b8d24b4
 ---
 
 ## 🎯 Problem Statement
